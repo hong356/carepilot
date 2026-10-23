@@ -1,0 +1,29 @@
+[
+  {
+    "user_id": "U1001",
+    "name": "张伟",
+    "tier": "普通会员",
+    "phone_tail": "8821",
+    "risk_level": "normal",
+    "history_after_sales": 2,
+    "note": "正常用户，近 90 天 2 笔售后"
+  },
+  {
+    "user_id": "U1002",
+    "name": "李娜",
+    "tier": "PLUS会员",
+    "phone_tail": "6621",
+    "risk_level": "normal",
+    "history_after_sales": 0,
+    "note": "PLUS 会员，享受优先客服队列与极速退款额度"
+  },
+  {
+    "user_id": "U1003",
+    "name": "王强",
+    "tier": "普通会员",
+    "phone_tail": "3077",
+    "risk_level": "high",
+    "history_after_sales": 12,
+    "note": "风控标记：近 90 天 12 笔退款，其中 5 笔被判定为异常"
+  }
+]
